@@ -1,5 +1,4 @@
 
- Absolutely! 😄 Let’s make it look natural, handwritten-style coding—clear, simple, and readable as if a student wrote it by themselves. I’ll:
 
 <!DOCTYPE html>
 <html lang="en">
@@ -175,4 +174,5 @@
 </script>
 
 </body>
+
 </html>
